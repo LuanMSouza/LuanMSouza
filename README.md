@@ -1,10 +1,18 @@
 <div align="center">
 
-# DVLS <sup>//</sup> Luan Souza
-
-**Full Stack Developer · Sites que crescem com o negócio**
+![DVLS Banner](./banner.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LuanMSouza&color=8B5CF6&style=for-the-badge&label=VISUALIZAÇÕES)
+
+</div>
+
+<br>
+
+<div align="center">
+
+| ⚡ 95+ | 🚀 7d | 📦 10+ | 🎯 100% |
+|:---:|:---:|:---:|:---:|
+| Lighthouse | Entrega | Projetos | Custom |
 
 </div>
 
