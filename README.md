@@ -1,41 +1,76 @@
-<h1 align="center">DVLS // Luan</h1>
-<p align="center">Full Stack Developer · Performance-driven Web Apps</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Luan+Souza;Full+Stack+Developer;Sites+que+crescem+com+o+negócio." alt="Typing SVG" />
 
----
+<br>
 
-### 01 // ABOUT
+![Profile Views](https://komarev.com/ghpvc/?username=LuanMSouza&color=8B5CF6&style=for-the-badge&label=VISUALIZAÇÕES)
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="60%" valign="top">
+
+### `> sobre_mim.js`
 
 ```js
 const luan = {
-  role: "Full Stack Developer",
-  stack: ["Next.js", "Node.js", "PostgreSQL", "Tailwind CSS"],
-  focus: "High-performance websites (PageSpeed 95+)",
-  based: "Santos, SP - Brazil",
-  studio: "dvls.com.br",
-  mindset: "Code. Optimize. Ship."
+  studio: "DVLS — Estúdio Digital",
+  location: "Santos, SP 🇧🇷",
+  stack: ["Next.js", "Node.js", "PostgreSQL", "Tailwind"],
+  focus: "Performance obsessiva (Lighthouse 95+)",
+  delivery: "7 dias",
+  philosophy: "Design bold. Código limpo. Resultado real."
 };
 ```
 
-### 02 // WHAT I BUILD
+</td>
+<td width="40%" valign="top">
 
-- 🚀 Sites otimizados para Core Web Vitals (casos reais: 39 → 100 no PageSpeed)
-- 🔧 Sistemas web sob medida (CRMs, portais, automações)
-- 🤖 Automação e integrações (bots, APIs, scraping)
+### `> métricas`
 
-### 03 // STACK
+<div align="center">
 
-| Frontend | Backend | Infra |
-|---|---|---|
-| Next.js, React, Tailwind | Node.js, Express | VPS, GitHub Actions |
-| TypeScript | PostgreSQL | Docker |
+| | |
+|---|---|
+| ⚡ Lighthouse | **95+** |
+| 🚀 Entrega | **7 dias** |
+| 📦 Projetos | **10+** |
+| 🎯 Custom | **100%** |
 
-### 04 // CONTACT
+</div>
 
-📍 Santos, SP &nbsp;|&nbsp; 🌐 [dvls.com.br](https://dvls.com.br) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/luanmachadodesouza/)
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `> stack`
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,tailwind,git,vercel&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `> conecte-se`
+
+<a href="https://dvls.com.br"><img src="https://img.shields.io/badge/DVLS-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
